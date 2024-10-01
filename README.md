@@ -1,26 +1,33 @@
-﻿### Hi there, I'm Ahmed Magdy 👋.
+### Hi there, I'm Ahmed Magdy 👋 
 
-### I'm a Full-Stack developer from Egypt.
+#### 🚀 Software Engineer | Full-Stack Developer | Competitive Programmer
 
-**I am Into , 🙏**
+I specialize in **logistics automation**, **web development**, and **problem-solving**. Currently, I'm working at **Noon**, where I optimize processes and manage high-scale systems for order delivery.
 
-**Web Development, Competetive Programming & Problem Solving 😼**
-<br />
+---
 
-#### - 💬 Connect? Here 👉🏼
+### 👨‍💻 About Me
+- 🏢 **Software Engineer** at **Noon**, focusing on automating logistics and building scalable systems.
+- 💡 Passionate about **Competitive Programming**, having been an **ACM-ICPC World Finalist**.
+- 🔧 Skilled in **Python**, **FastAPI**, **MySQL**, **Node.js**, **Google Cloud**, and **more**.
+- 👨‍🏫 Love mentoring developers and contributing to the tech community through **problem setting**.
 
-<br/>
-<a href="https://www.linkedin.com/in/ahmed-magdy01//">
-  <img align="left" alt="Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://t.me/ahmed_magdy123">
-  <img align="left" alt="Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
-</a>
+---
 
+### 🌐 Let's Connect!
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ahmed-magdy01/)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram)](https://t.me/ahmed_magdy123)
 
+---
 
+### 🛠️ Tech Stack:
+- **Languages**: Python, C++, SQL, JavaScript, C#
+- **Frameworks**: FastAPI, Node.js, Flask, ASP.NET
+- **Tools**: Docker, Kubernetes, Google Cloud, Git
 
-<br />
-<br />
+---
 
-<br />
+### 🎖️ Achievements:
+- 🌍 **ACM-ICPC World Finalist** 2020 & 2021
+- 🥉 **Africa and Arab Programming Contest** Bronze Medalist
+- 🏆 Ranked **1st** in Al-Azhar University Collegiate Programming Contest
